@@ -1,0 +1,117 @@
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+G:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+G:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+G:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+G:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+K:\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+K:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+K:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+K:\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb

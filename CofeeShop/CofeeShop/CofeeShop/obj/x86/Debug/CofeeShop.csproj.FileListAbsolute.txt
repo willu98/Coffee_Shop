@@ -1,0 +1,13 @@
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.exe
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\CofeeShop.pdb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.csprojResolveAssemblyReference.cache
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.exe
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\obj\x86\Debug\CofeeShop.pdb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\font.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\regularFont.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\smallerFont.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Font\subTitleFont.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\cashier.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\customer.xnb
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShop\bin\x86\Debug\Content\Texture2D\shop.xnb

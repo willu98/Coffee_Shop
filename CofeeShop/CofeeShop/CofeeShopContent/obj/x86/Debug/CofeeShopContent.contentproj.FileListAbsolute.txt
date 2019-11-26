@@ -1,0 +1,9 @@
+K:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+G:\grade 12 work\Programming\Assighnments\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+G:\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+C:\Users\fei\Desktop\CofeeShop\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+C:\Users\fei\Desktop\Simulation_A5\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+F:\Michaels shit\test3\Simulation_A5\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+G:\Programing\cofeeShop3.8\Simulation_A5\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
+K:\CofeeShop\CofeeShop\CofeeShopContent\obj\x86\Debug\CofeeShopContent.contentprojResolveAssemblyReference.cache
